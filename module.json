@@ -1,12 +1,12 @@
 {
-  "id": "vulcania-core-rulebook-it",
-  "title": "Vulcania Core Rulebook IT",
-  "version": "1.0.5",
+  "id": "vulcania-core-rulebook-en",
+  "title": "Vulcania Core Rulebook EN",
+  "version": "1.0.o",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "description": "Pacchetto Base per il sistema di gioco di Vulcania (italiano)",
+  "description": "Basic package for the Vulcania game system (english)",
   "authors": [
     {
       "name": "Heyrold",
@@ -97,7 +97,7 @@
     }
   ],
 
-  "url": "https://github.com/heyrold73/vulcania-core-rulebook-it",
-  "manifest": "https://github.com/heyrold73/vulcania-core-rulebook-it/releases/latest/download/module.json",
-  "download": "https://github.com/heyrold73/vulcania-core-rulebook-it/releases/latest/download/module.zip"
+  "url": "https://github.com/heyrold73/vulcania-core-rulebook-en",
+  "manifest": "https://github.com/heyrold73/vulcania-core-rulebook-en/releases/latest/download/module.json",
+  "download": "https://github.com/heyrold73/vulcania-core-rulebook-en/releases/latest/download/module.zip"
 }
