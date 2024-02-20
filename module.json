@@ -16,49 +16,49 @@
   ],
   "packs": [
     {
-      "name": "vulcania-core-rulebook",
-      "label": "Vulcania Core Rulebook",
-      "path": "packs/vulcania-core-rulebook",
+      "name": "vulcania-core-rulebook-en",
+      "label": "Vulcania Core Rulebook-EN",
+      "path": "packs/vulcania-core-rulebook-en",
       "type": "JournalEntry",
       "system": "vulcania",
       "flags": {}
     },
     {
-      "name": "equipaggiamento",
-      "label": "Equipaggiamento",
-      "path": "packs/equipaggiamento",
+      "name": "equipment",
+      "label": "Equipment",
+      "path": "packs/equipment",
       "type": "Item",
       "system": "vulcania",
       "flags": {}
     },
     {
-      "name": "arti",
-      "label": "Arti",
-      "path": "packs/arti",
+      "name": "arts",
+      "label": "Arts",
+      "path": "packs/arts",
       "type": "Item",
       "system": "vulcania",
       "flags": {}
     },
     {
-      "name": "mutazioni",
-      "label": "Mutazioni",
-      "path": "packs/mutazioni",
+      "name": "mutations",
+      "label": "Mutations",
+      "path": "packs/mutations",
       "type": "Item",
       "system": "vulcania",
       "flags": {}
     },
     {
-      "name": "tratti-personalita",
-      "label": "Tratti-Personalità",
-      "path": "packs/tratti-personalita",
+      "name": "trait-personality",
+      "label": "Trait-Personality",
+      "path": "packs/trait-personality",
       "type": "Item",
       "system": "vulcania",
       "flags": {}
     },
     {
-      "name": "avversari",
-      "label": "Avversari",
-      "path": "packs/avversari",
+      "name": "adversaries",
+      "label": "Adversaries",
+      "path": "packs/adversaries",
       "type": "Actor",
       "system": "vulcania",
       "flags": {}
@@ -72,25 +72,25 @@
       "flags": {}
     },
     {
-      "name": "template-pg-png-creature",
-      "label": "Template PG PNG CREATURE",
-      "path": "packs/template-pg-png-creature",
+      "name": "template-pc-npc-creature",
+      "label": "Template PC NPC CREATURE",
+      "path": "packs/template-pc-npc-creature",
       "type": "Actor",
       "system": "vulcania",
       "flags": {}
     },
     {
-      "name": "tabelle",
-      "label": "Tabelle",
-      "path": "packs/tabelle",
+      "name": "tables",
+      "label": "Tables",
+      "path": "packs/tables",
       "type": "RollTable",
       "system": "vulcania",
       "flags": {}
     },
     {
-      "name": "scene",
-      "label": "Scene",
-      "path": "packs/scene",
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
       "type": "Scene",
       "system": "vulcania",
       "flags": {}
