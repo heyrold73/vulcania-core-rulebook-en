@@ -1,7 +1,7 @@
 {
   "id": "vulcania-core-rulebook-en",
   "title": "Vulcania Core Rulebook EN",
-  "version": "1.0.o",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -59,22 +59,6 @@
       "name": "adversaries",
       "label": "Adversaries",
       "path": "packs/adversaries",
-      "type": "Actor",
-      "system": "vulcania",
-      "flags": {}
-    },
-    {
-      "name": "template-item",
-      "label": "Template Item",
-      "path": "packs/template-item",
-      "type": "Item",
-      "system": "vulcania",
-      "flags": {}
-    },
-    {
-      "name": "template-pc-npc-creature",
-      "label": "Template PC NPC CREATURE",
-      "path": "packs/template-pc-npc-creature",
       "type": "Actor",
       "system": "vulcania",
       "flags": {}
