@@ -1,0 +1,29 @@
+2024/03/02-10:58:43.363 23a8 Recovering log #709
+2024/03/02-10:58:43.372 23a8 Delete type=0 #709
+2024/03/02-10:58:43.372 23a8 Delete type=3 #707
+2024/03/02-11:15:08.389 1d10 Level-0 table #714: started
+2024/03/02-11:15:08.512 1d10 Level-0 table #714: 953967 bytes OK
+2024/03/02-11:15:08.513 1d10 Delete type=0 #712
+2024/03/02-11:43:46.407 1d10 Level-0 table #716: started
+2024/03/02-11:43:46.421 1d10 Level-0 table #716: 838679 bytes OK
+2024/03/02-11:43:46.422 1d10 Delete type=0 #713
+2024/03/02-12:16:29.530 1d10 Level-0 table #718: started
+2024/03/02-12:16:29.554 1d10 Level-0 table #718: 1409439 bytes OK
+2024/03/02-12:16:29.554 1d10 Delete type=0 #715
+2024/03/02-12:16:29.555 1d10 Manual compaction at level-0 from '!folders!CwEayWyBfubbqYhQ' @ 72057594037927935 : 1 .. '!journal.pages!sQaNZACjDhWe8Q8G.fdB7Yj0hsRS9kB6u' @ 0 : 0; will stop at '!journal.pages!sQaNZACjDhWe8Q8G.fdB7Yj0hsRS9kB6u' @ 3862 : 1
+2024/03/02-12:16:29.555 1d10 Compacting 2@0 + 1@1 files
+2024/03/02-12:16:29.594 1d10 Generated table #719@0: 11 keys, 262408 bytes
+2024/03/02-12:16:29.594 1d10 Compacted 2@0 + 1@1 files => 262408 bytes
+2024/03/02-12:16:29.594 1d10 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/02-12:16:29.595 1d10 Delete type=2 #714
+2024/03/02-12:16:29.595 1d10 Delete type=2 #716
+2024/03/02-12:16:29.595 1d10 Delete type=2 #718
+2024/03/02-12:16:29.596 1d10 Manual compaction at level-0 from '!journal.pages!sQaNZACjDhWe8Q8G.fdB7Yj0hsRS9kB6u' @ 3862 : 1 .. '!journal.pages!sQaNZACjDhWe8Q8G.fdB7Yj0hsRS9kB6u' @ 0 : 0; will stop at (end)
+2024/03/02-12:16:29.596 1d10 Manual compaction at level-1 from '!folders!CwEayWyBfubbqYhQ' @ 72057594037927935 : 1 .. '!journal.pages!sQaNZACjDhWe8Q8G.fdB7Yj0hsRS9kB6u' @ 0 : 0; will stop at '!journal.pages!sQaNZACjDhWe8Q8G.fdB7Yj0hsRS9kB6u' @ 3862 : 1
+2024/03/02-12:16:29.596 1d10 Compacting 1@1 + 1@2 files
+2024/03/02-12:16:29.606 1d10 Generated table #720@1: 30 keys, 555709 bytes
+2024/03/02-12:16:29.606 1d10 Compacted 1@1 + 1@2 files => 555709 bytes
+2024/03/02-12:16:29.606 1d10 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/02-12:16:29.606 1d10 Delete type=2 #706
+2024/03/02-12:16:29.606 1d10 Delete type=2 #719
+2024/03/02-12:16:29.607 1d10 Manual compaction at level-1 from '!journal.pages!sQaNZACjDhWe8Q8G.fdB7Yj0hsRS9kB6u' @ 3862 : 1 .. '!journal.pages!sQaNZACjDhWe8Q8G.fdB7Yj0hsRS9kB6u' @ 0 : 0; will stop at (end)
