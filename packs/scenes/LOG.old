@@ -1,8 +1,0 @@
-2024/03/02-10:58:43.460 3140 Recovering log #210
-2024/03/02-10:58:43.469 3140 Delete type=0 #210
-2024/03/02-10:58:43.469 3140 Delete type=3 #208
-2024/03/02-12:16:29.522 1d10 Level-0 table #215: started
-2024/03/02-12:16:29.522 1d10 Level-0 table #215: 0 bytes OK
-2024/03/02-12:16:29.523 1d10 Delete type=0 #213
-2024/03/02-12:16:29.526 1d10 Manual compaction at level-0 from '!scenes!4NGQALvew6noc3Gz' @ 72057594037927935 : 1 .. '!scenes!dgb3UV66dD5lArJ6' @ 0 : 0; will stop at (end)
-2024/03/02-12:16:29.526 1d10 Manual compaction at level-1 from '!scenes!4NGQALvew6noc3Gz' @ 72057594037927935 : 1 .. '!scenes!dgb3UV66dD5lArJ6' @ 0 : 0; will stop at (end)
