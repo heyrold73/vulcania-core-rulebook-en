@@ -1,7 +1,7 @@
 {
   "id": "vulcania-core-rulebook-en",
   "title": "Vulcania Core Rulebook EN",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
